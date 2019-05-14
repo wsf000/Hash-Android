@@ -403,6 +403,7 @@ public class CameraOneActivity extends Activity {
                 //file = FormatUtil.saveBitmapFile(bitmap);
                 s = bitmapToFile(CameraOneActivity.this, bitmap);
                 if (a= true) {
+
                     a = false;
                     net(s);
                 } else if (a = false) {
