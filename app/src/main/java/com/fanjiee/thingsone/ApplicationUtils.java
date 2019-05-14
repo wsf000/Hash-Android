@@ -25,6 +25,7 @@ import okhttp3.OkHttpClient;
  */
 
 public class ApplicationUtils extends Application {
+    //呵呵哒
 
     public static final long DEFAULT_MILLISECONDS = 300000;      //默认的超时时间
     public static Context applicationContext;
